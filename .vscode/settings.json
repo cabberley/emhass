@@ -22,5 +22,8 @@
     "sonarlint.focusOnNewCode": false,
     "sonarlint.analyzerProperties": {},
     "mypy-type-checker.reportingScope": "workspace",
-    "editor.defaultFormatter": "charliermarsh.ruff"
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ]
 }
